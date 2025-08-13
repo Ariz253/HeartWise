@@ -1,6 +1,6 @@
 # ❤️ Heart Stroke Risk Prediction
 
-This project is a **machine learning-powered web app** that predicts the likelihood of heart stroke based on user-provided health parameters.  
+This project is a **machine learning-powered web app** that predicts the likelihood of heart disease based on user-provided health parameters.  
 It uses a **Logistic Regression** model trained on cardiovascular data, selected after evaluating multiple supervised classification algorithms.
 
 ---
@@ -33,8 +33,8 @@ Logistic Regression was chosen based on the best performance in terms of **accur
 ### 1️⃣ Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/heart-stroke-predictor.git
-cd heart-stroke-predictor
+git clone https://github.com/Ariz253/HeartWise.git
+cd HeartWise
 ```
 
 ### 2️⃣ Create a virtual environment (recommended)
